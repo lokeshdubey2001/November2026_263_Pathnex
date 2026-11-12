@@ -1,0 +1,3 @@
+2.5 hours - learnt Kubernetes and some of its concepts taught in the todays class.
+20 minutes - type and understood configuration file using chatgpt
+20 minutes - practised for introduction video and made one video.
