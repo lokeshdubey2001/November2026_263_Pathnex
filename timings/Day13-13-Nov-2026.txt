@@ -1,0 +1,4 @@
+3 hours - learnt and practised kubernetes using terraform that was taught today in class.
+1 hour - revision of kubernetes taught in the previous classes.
+30 minutes - type and understood configuration file using chatgpt
+10 minutes - made one introduction video according to the introduction content in notes.
