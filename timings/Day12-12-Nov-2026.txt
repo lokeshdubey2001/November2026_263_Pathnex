@@ -1,0 +1,3 @@
+3 hours - learnt and practised about kubernetes and kubernetes upgradation that was taught today.
+10 minutes - type and understood configuration file using chatgpt
+10 minutes - made one introduction video according to the introduction content in notes.
