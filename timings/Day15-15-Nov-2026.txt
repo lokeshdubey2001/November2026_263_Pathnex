@@ -1,0 +1,4 @@
+3 hours - learnt and understood the kubernetes concepts taught in the todays class.
+3 hours - revised the concepts taught in the previous classes related to kubernetes
+50 minutes - type and understood configuration file using chatgpt
+10 minutes - made one introduction video according to the introduction content in notes
