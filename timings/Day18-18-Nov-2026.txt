@@ -1,0 +1,4 @@
+4 hours - Terraform learnt and practised taught in todays class.
+4 hours - revised aws taught in previous classes
+40 minutes - type and understood configuration file using chatgpt
+10 minutes - made one introduction video according to the introduction content in notes.
