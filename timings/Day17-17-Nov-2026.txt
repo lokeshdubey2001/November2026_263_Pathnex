@@ -1,0 +1,4 @@
+3 hours - learnt and understood the kubernetes with argocd that was taught in todays class.
+3 hours - revised the kubernetes concepts taught in previous classes.
+1 hour - type and understood configuration file using chatgpt
+30 minutes - made one introduction video according to the introduction content in notes.
