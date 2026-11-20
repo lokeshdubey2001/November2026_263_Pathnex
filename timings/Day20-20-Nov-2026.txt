@@ -1,0 +1,4 @@
+4 hours - learnt and practised ansible taught in todays class.
+5 hours - revised kubernetes by watching the previous months classes.
+40 minutes - type and understood configuration file.
+15 minutes - made one introduction video according to the introduction content in notes.
