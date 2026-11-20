@@ -1,0 +1,4 @@
+4 hours - learnt and practised terraform concepts that was taught in todays class.
+4 hours - revised docker by watching the previous months classes.
+15 minutes - type and understood configuration file.
+20 minutes - made one introduction video according to the introduction content in notes.
