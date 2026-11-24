@@ -1,0 +1,4 @@
+5 hours - Revised and practised Terraform.
+5 hours - Revised and practised monitoring with new relic.
+20 minutes - type and understood configuration file.
+15 minutes - made one introduction video according to the introduction content in notes.
