@@ -1,0 +1,3 @@
+7 hours - learnt and practised ci/cd concepts taught in todays class.
+20 minutes - type and understood configuration file.
+20 minutes - made one introduction video according to the introduction content in notes.
