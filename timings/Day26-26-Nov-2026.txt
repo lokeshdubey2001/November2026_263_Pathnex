@@ -1,0 +1,4 @@
+3 hours - learnt and understood about SSL and TLS.
+4 hours - revised and practised Apache Kafka.
+35 minutes - type and understood configuration file.
+20 minutes - made one introduction video according to the introduction content in notes.
