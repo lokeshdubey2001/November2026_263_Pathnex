@@ -1,0 +1,4 @@
+4 hours - learnt and practised Kafka and the concepts taught in todays class.
+3 hours - revised ELK stack taught yesterday.
+15 minutes - type and understood configuration file.
+10 minutes - made one introduction video according to the introduction content in notes.
