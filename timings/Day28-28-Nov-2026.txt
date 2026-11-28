@@ -1,0 +1,4 @@
+2.5 hours - learnt and understood DevSecOps and the security tools and the use cases.
+6 hours - revisedand understood aws all concepts from notes.
+10 minutes - type and understood configuration file.
+20 minutes - made one introduction video according to the introduction content in notes.
