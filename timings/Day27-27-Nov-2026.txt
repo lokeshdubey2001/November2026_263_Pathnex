@@ -1,0 +1,5 @@
+3 hours - learnt and understood about SRE and the concepts.
+3 hours - revised and understood SSL/TLS.
+3 hours - revised and practised linux commands.
+10 minutes - type and understood configuration file.
+10 minutes - made one introduction video according to the introduction content in notes.
